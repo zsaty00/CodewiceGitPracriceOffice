@@ -8,6 +8,22 @@ public class Main {
         char ch = 'A';
         System.out.println(ch);
 
+         System.out.println("Hello Codewise!");
+
+        String str = "Hello Batch 3 students!";
+        System.out.println(str);
+
+        char ch = 'A';
+        System.out.println(ch);
+         System.out.println("Hello Codewise!");
+
+        String str = "Hello Batch 3 students!";
+        System.out.println(str);
+
+        char ch = 'A';
+        System.out.println(ch);
+        
+
         
     }
 }
