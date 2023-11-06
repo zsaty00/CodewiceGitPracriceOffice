@@ -4,5 +4,10 @@ public class Main {
 
         String str = "Hello Batch 3 students!";
         System.out.println(str);
+
+        char ch = 'A';
+        System.out.println(ch);
+
+        
     }
 }
