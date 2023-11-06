@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Codewise!");
+        System.out.println("hello Aimerim!");
 
-        String str = "Hello Batch 3 students!";
+        String str = "Code pdussdfed;  Batch 3 ssdfsdftudents!";
         System.out.println(str);
 
         char ch = 'A';
@@ -10,19 +10,17 @@ public class Main {
 
          System.out.println("Hello Codewise!");
 
-        String str = "Hello Batch 3 students!";
+        String strs = "Batch 3 students!";
         System.out.println(str);
 
-        char ch = 'A';
+        char chs = 'A';
         System.out.println(ch);
          System.out.println("Hello Codewise!");
 
-        String str = "Hello Batch 3 students!";
+        String stsr = "Hello Batch 3 students!";
         System.out.println(str);
 
-        char ch = 'A';
-        System.out.println(ch);
-        
+
 
         
     }
